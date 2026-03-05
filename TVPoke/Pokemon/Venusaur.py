@@ -9,4 +9,4 @@ class Venusaur(Grass):
             Move("Leech Seed", "GRASS", 0),
             Move("Solar Beam", "GRASS", 120)
         ]
-        super().__init__("Venusaur", 80, moves, "./TVPoke/Pokemon/imgs/Golduck.png")
+        super().__init__("Venusaur", 80, moves, "./TVPoke/Pokemon/imgs/Venusaur.png")
